@@ -1,0 +1,6 @@
+node_modules/
+.env
+raksha.db
+raksha.db-shm
+raksha.db-wal
+*.log
